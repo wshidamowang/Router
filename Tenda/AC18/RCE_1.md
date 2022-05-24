@@ -38,4 +38,4 @@ print("HackAttackSuccess!")
 ```
 Use the above POC to play shell through telnet You can get a very stable shell
 ![rce1.3.png](https://github.com/wshidamowang/Router/blob/main/Tenda/AC18/AC18_images/rce1.3.png)
-![rce1.4.png](https://github.com/wshidamowang/Router/blob/main/Tenda/AC18/AC18_images/rce1.4.png)
+![rce1.4.png](https://github.com/wshidamowang/Router/blob/main/Tenda/AC18/AC18_images/rce1.4%20.png)
