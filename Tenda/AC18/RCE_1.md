@@ -1,4 +1,4 @@
-Vendor:Tenda
+Vendor:Tenda https://www.tenda.com.cn/default.html
 product:AC18
 version:V15.03.05.19 and  V15.03.05.05
 type:Arbitrary Remote Command Execution
